@@ -3,7 +3,7 @@ Projet WORDPRESS : Créer un thème Wordpress
 
 Sujet :
 
-L'office du tourisme de la ville de Strasbourg souhaitent un site web à l'image de la ville pour attirer des touristes et informer sur les activités proposées.
+L'office du tourisme de la ville de Nouméa souhaitent un site web à l'image de la ville pour attirer des touristes et informer sur les activités proposées.
 
 On vous indique que le site doit être créé sous WordPress et qu'il doit utiliser un thème personnalisé. Le client souhaite avoir un rendu unique pour son site : vous allez donc devoir adapter le thème à son image (vous pouvez utiliser un thème existant comme base néanmoins).
 
